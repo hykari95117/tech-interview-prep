@@ -1,8 +1,5 @@
 # Backend / Enterprise System Interview Question List
 
-경력직 백엔드 개발자(업무 시스템, ERP, 운영 중심)를 대상으로 한  
-기술·비기술 면접 질문 정리입니다.
-
 ---
 
 ## 1. Technical – General
