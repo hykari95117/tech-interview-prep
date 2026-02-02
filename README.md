@@ -1,5 +1,9 @@
 # Backend / Enterprise System Interview Question List
 
+## 0. focus
+- 컴퓨터 사이언스 or 주니어 수준에 어울리는 기술 질문보다는 경력 즉, 어떤 경험을 가졌는지를 더 중요하게 보고 집중적으로 질문 예상
+- 물론 CS, 기술질문 등도 대비는 해야한다.
+
 ---
 
 ## 1. Technical – General
@@ -14,6 +18,7 @@
 ## 2. Backend / Spring
 - Spring Framework 또는 Spring Boot 사용 경험을 설명해 주세요
 - Spring Data JPA 사용 시 장단점은 무엇이라고 생각하나요?
+- JPA N+1문제 발생 원인부터 해결 방법
 - JPA 사용 중 성능 또는 동시성 이슈를 겪은 적이 있나요?
 - 트랜잭션 관리는 어떻게 하고 있나요?
 - 대용량 데이터 처리 시 고려하는 사항은 무엇인가요?
