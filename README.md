@@ -1,6 +1,7 @@
 # Backend / Enterprise System Interview Question List
 
-## 0. focus
+---
+## 0. Overview
 - 컴퓨터 사이언스 or 주니어 수준에 어울리는 기술 질문보다는 경력 즉, 어떤 경험을 가졌는지를 더 중요하게 보고 집중적으로 질문 예상
 - 물론 CS, 기술질문 등도 대비는 해야한다.
 
